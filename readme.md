@@ -16,7 +16,22 @@ Lalu ketik command dibawah ini
 4. php artisan migrate (migrasi database)
 5. php artisan db:seed
 
-## ##Fitur
+## Fitur
 ## ront / Depan
     Halam Login
+## Admin
+1. Autentikasi (menggunakan fortify)
+2. Halaman Dashboard
+3. Manage User (CRUD)
+4. Manage Departemen (CRUD)
+5. Manage Jabatan (CRUD)
+6. Manage Jenis Cuti  (CRUD)
+7. Manage Pegawai (CRUD)
+8. Manage Pengajuan Cuti (CRUD)
+9. Manage Status Cuti (CRUD)
 
+## user 
+1. bisa melakukan pengajuan cuti
+
+## Author
+Gersia Gita P (72180220)
