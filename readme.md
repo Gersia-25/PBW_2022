@@ -19,6 +19,9 @@ Lalu ketik command dibawah ini
 ## Fitur
 ## ront / Depan
     Halam Login
+## Login
+   email :gersia@brainmatics.com
+   Psw : Achiera23
 ## Admin
 1. Autentikasi (menggunakan fortify)
 2. Halaman Dashboard
